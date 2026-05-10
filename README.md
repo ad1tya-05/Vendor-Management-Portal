@@ -3,7 +3,7 @@
 A comprehensive ERP solution for managing vendor operations, purchase orders, shipments, and invoices.
 
 ## 🚀 Live Demo
-[Vercel/Netlify Link - To be deployed]
+Vercel - https://vendor-management-portal-psi.vercel.app/
 
 ## 🛠️ Tech Stack
 - **Frontend:** React (Vite)
